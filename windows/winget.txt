@@ -1,0 +1,3 @@
+Microsoft.PowerShell
+Microsoft.WindowsTerminal
+JanDeDobbeleer.OhMyPosh

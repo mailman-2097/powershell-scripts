@@ -1,0 +1,19 @@
+
+# Tools
+# spotify
+zoom
+gimp
+7zip
+hpsupportassistant
+winmerge
+paint.net
+
+# browsers
+firefox
+googlechrome
+
+# Text editors / IDEs
+vscode
+notepadplusplus
+github-desktop
+gh
